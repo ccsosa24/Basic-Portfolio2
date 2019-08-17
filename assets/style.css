@@ -1,0 +1,49 @@
+h2 {
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: teal;
+    width: 200px;
+    height: 40px;
+    
+}
+
+h3 {
+    color: teal;
+}
+
+.topnav a {
+    background-color: #dddddd;
+    width: 68px;
+    float: right;
+}
+
+img.floatleft {
+    float: left;
+    margin: 4px;
+}
+ 
+body {
+    background-color: #dddddd
+}
+
+.container {
+    background-color: white;
+    color: #777777;
+    text-align: center;
+    
+}
+
+
+
+
+
+
+
+.footer {
+    height: 60px;
+    margin-top: 115px;
+    background-color: #666666;
+    border-top: 8px soild #4aaaa5;
+    text-align: center;
+    color: white;
+}

@@ -1,0 +1,39 @@
+h2 {
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: teal;
+    width: 195px;
+    height: 35px;
+}
+
+h3 {
+    color: teal;
+}
+
+.topnav a {
+    background-color: #dddddd;
+    width: 68px;
+    float: right;
+}
+
+.text-block {
+    position: absolute;
+    background-color: teal;
+    color: white;
+    text-align: center;
+}
+
+.container {
+    position: relative;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+
+.footer {
+    height: 60px;
+    margin-top:115px;
+    background-color: #666666;
+    border-top: 8px soild #4aaaa5;
+    text-align: center;
+    color: white;
+}
