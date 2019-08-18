@@ -1,19 +1,29 @@
+header {
+    background-color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height: 80px;
+    border:1px;
+}
+
 h2 {
     color: white;
-    font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: teal;
-    width: 195px;
-    height: 35px;
+    width: 190px;
+    padding: 10px;
+    text-align: center;
 }
 
 h3 {
     color: teal;
+
+    
 }
 
 .topnav a {
-    background-color: #dddddd;
+    background-color: white;
     width: 68px;
     float: right;
+    color: #7777;
     
 
 }
@@ -44,14 +54,15 @@ textarea {
 }
 
 .container {
-    border-radius: 15px;
-    background-color:#7777;
-    padding: 20px;
-    border-color: #dddddd;
+    background-color: darkgrey;
+    color:white;
+    
 }
  
 body {
-    background-color: #dddddd
+    border: 1px;
+    
+
 }
 
 
@@ -60,7 +71,7 @@ body {
 }
 
 .content-inside {
-    padding: 20px;
+    padding: 40px;
     padding-bottom: 50px;
 }
 
